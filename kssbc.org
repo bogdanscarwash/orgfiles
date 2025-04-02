@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID: 3c206b07-4c49-4971-9d7a-f0dc28a2961c
+:TITLE: kansas socialist book club todo
+:END:
+
+* NEXT [#A] email noah the kirby documents :kirby:documents:intra:org:
+DEADLINE: <2025-04-01 Tue 23:55> SCHEDULED: <2025-04-01 Tue>
+:PROPERTIES:
+:ID:       c602b0d5-efac-4cbb-adea-211cce797f87
+:CREATED:  [2025-04-01 Tue 14:47]
+:END:
+
+* TODO [#A] fix website :website:
+DEADLINE: <2025-04-30 Wed>
+:PROPERTIES:
+:ID:       85b20677-0e52-4f19-b854-ba11727368d1
+:CREATED:  [2025-03-30 Sun 23:16]
+:END:
+
+fix the website and maintain security levels
+
+* DONE [#C] test :tag1:tag2:tag3:
+CLOSED: [2025-04-01 Tue 08:59] DEADLINE: <2025-04-06 Sun> SCHEDULED: <2025-03-30 Sun>
+:PROPERTIES:
+:ID:       335a35b8-3b66-40e1-9747-82fdeb304b69
+:CREATED:  [2025-03-30 Sun 23:35]
+:END:
+
+content testing
+
+** DONE [#C] test2 :tag1:tag2:
+CLOSED: [2025-03-31 Mon 07:05] DEADLINE: <2025-03-31 Mon 00:29-22:29> SCHEDULED: <2025-03-30 Sun>
+:PROPERTIES:
+:ID:       533ed37a-8ca2-48f7-92f4-7cd9cfafb228
+:CREATED:  [2025-03-30 Sun 23:30]
+:END:
+
+hello world
+
