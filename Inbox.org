@@ -1,0 +1,6 @@
+* hello
+:PROPERTIES:
+:ID:       0b4dc884-fa7b-4213-9e63-894195743a07
+:CREATED:  [2025-04-02 Wed 14:05]
+:END:
+
